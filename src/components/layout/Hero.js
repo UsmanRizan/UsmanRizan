@@ -21,14 +21,7 @@ export default function Hero() {
           </button>
         </div>
       </div>
-      <div className=" relative">
-        <Image
-          src={"/pizza.png"}
-          layout={"fill"}
-          objectFit={"contain"}
-          alt={"pizza"}
-        ></Image>
-      </div>
+      <div className=" relative"></div>
     </section>
   );
 }
